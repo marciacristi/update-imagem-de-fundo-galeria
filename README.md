@@ -1,0 +1,1 @@
+# update-imagem-de-fundo-galeria
